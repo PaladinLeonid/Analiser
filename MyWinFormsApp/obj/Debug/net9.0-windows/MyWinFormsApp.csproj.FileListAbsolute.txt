@@ -1,0 +1,4 @@
+C:\Users\l.palagin\Desktop\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.palagin\Desktop\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\l.palagin\Desktop\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.AssemblyInfo.cs
+C:\Users\l.palagin\Desktop\MyWinFormsApp\obj\Debug\net9.0-windows\MyWinFormsApp.csproj.CoreCompileInputs.cache
